@@ -1,0 +1,4 @@
+geemap
+streamlit
+pandas
+ee
