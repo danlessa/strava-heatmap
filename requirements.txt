@@ -2,3 +2,4 @@ geemap
 streamlit
 pandas
 ee
+streamlit-folium
